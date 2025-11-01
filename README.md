@@ -84,5 +84,16 @@ Canvas UI System
 
 Event Systems
 
-(Optional future: ML-Agents Toolkit for RL integration)
+ML-Agents Toolkit for RL integration
+
+
+🎯 Learning OutComes
+
+Developed a complete game loop from scratch using Unity’s event-driven systems.
+
+Understood real-time data flow between UI and game logic.
+
+Enhanced design thinking and prototyping with Unity UI.
+
+Strengthened C# scripting and architecture for modular gameplay systems.
 
