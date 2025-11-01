@@ -13,6 +13,7 @@ The project focuses on mastering Unity’s UI workflow, state management, and re
 Dynamic Question System
 
 • Randomized question selection with multiple-choice answers.
+
 • Modular design for easy expansion of the question database.
 
 Real-Time Scoring System
