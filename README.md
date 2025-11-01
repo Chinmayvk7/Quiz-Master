@@ -19,7 +19,9 @@
 - learned to effectively build interactive elements by combining objects with essential components like Sprite Renderer, Collider 2D, and Rigidbody 2D to define their properties and behaviors.
 
 - Train an AI “quiz master” that learns to select the next question difficulty based on how well the player performs.
+  
+- The RL agent (using Q-learning or a lightweight Deep Q-Network) gets rewards when player engagement/time-on-question is optimal.
 
--The RL agent (using Q-learning or a lightweight Deep Q-Network) gets rewards when player engagement/time-on-question is optimal.
+- The system automatically “personalizes” question flow for each player.
 
--The system automatically “personalizes” question flow for each player.
+
