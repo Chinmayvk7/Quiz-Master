@@ -10,31 +10,31 @@ The project focuses on mastering Unity’s UI workflow, state management, and re
 
 🧠 Concepts & Systems Implemented
 
-Dynamic Question System
+-Dynamic Question System
 
 • Randomized question selection with multiple-choice answers.
 
 • Modular design for easy expansion of the question database.
 
-Real-Time Scoring System
+-Real-Time Scoring System
 
 • Automatic score updates based on correct answers.
 
 • Supports cumulative scoring logic for multiple rounds.
 
-Timer & Visual Countdown
+-Timer & Visual Countdown
 
 • Interactive countdown timer using Unity UI.
 
 • Time penalties or rewards based on player actions.
 
-Progress Tracking
+-Progress Tracking
 
 • Smooth slider-based progress bar that reflects current quiz stage.
 
 • End-sequence triggered dynamically on quiz completion.
 
-Polished User Interface
+-Polished User Interface
 
 • Built with TextMeshPro, Buttons, and Sliders.
 
