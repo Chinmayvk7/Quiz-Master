@@ -62,6 +62,16 @@ This helped achieve a clean, readable, and well-structured interface design.
 Gameplay Flow:
 🟦 Question Display → 🟨 Answer Selection → 🟩 Progress Tracking → 🟧 Score Update → 🟥 End Sequence
 
+🤖 AI Integration
+
+• Traind an AI “Quiz Master” using Reinforcement Learning.
+
+• The AI dynamically adjusts question difficulty based on player performance.
+
+• Rewards are given for maintaining optimal engagement and response times.
+
+• This creates a personalized quiz experience that adapts to each player’s skill level.
+
 🧰 Tools & Technologies Used
 
 • Unity Engine
